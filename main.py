@@ -281,3 +281,4 @@ async def hello():
 @bot.command()
 async def echo(*, message: str):
     await bot.say(message)
+bot.run("NDQyMTIzNTIyMDIyNzAzMTE0.Dc6PgA.LmovzXx9ApPEy4UpevxNQByLm-8")
